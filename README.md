@@ -1,2 +1,2 @@
 # gillenai.github.io
-gillenai.github.io/culture_rec.md
+Look [here](gillenai.github.io/culture_rec.md) for my book recommendations
